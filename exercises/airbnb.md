@@ -17,7 +17,7 @@ Create the necessary methods to connect these classes.
 
 - #guests
   - returns an array of all guests who have stayed at a listing
-- #trips
+- #tripsseatt
   - returns an array of all trips at a listing
 - #trip_count
   - returns the number of trips that have been taken to that listing
